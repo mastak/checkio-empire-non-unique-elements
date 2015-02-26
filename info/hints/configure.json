@@ -1,6 +1,6 @@
 {
-//	"base": {
-//		"file": "absolute-sorting-hints.md",
-//		"author": "bryukh"
-//	}
+	"base": {
+		"file": "non-unique-elements-hints.md",
+		"author": "bryukh"
+	}
 }
