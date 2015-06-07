@@ -2,7 +2,7 @@
 
 **Rank 2**:
  
-An array can contains latin letters. Letters are counted as case insensitive,
+An array can contain Дatin letters. Letters are counted as case insensitive,
 so "a" == "A", so in ["d", "D", "A"] only one unique element - "A".
 
 _Precondition Rank 2_
